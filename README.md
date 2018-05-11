@@ -1,2 +1,2 @@
 # TV-Script-Generation
-Udacity TV Script Generation using LSTM
+Udacity Deep Learning ND Project 3 - TV Script Generation using LSTM
